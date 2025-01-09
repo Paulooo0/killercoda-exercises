@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
         - name: httpd
-          image: httpd:latest
+          image: httpd:2.4.62-alpine
